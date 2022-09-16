@@ -1,0 +1,9 @@
+Express - npm i express
+npm i @types/express -D
+TypeScript - npm i typescript -D
+ts-node-dev - npm i ts-node-dev -D
+
+Web
+Vite -npm create vite@latest
+
+Mobile
